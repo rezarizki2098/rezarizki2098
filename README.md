@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reza Riski Arifianda
-- 👀 this my project in 2024 indmira.com
+- 👀 this my project in 2024 [Visit Indmira](https://indmira.com) 
 
 <!---
 rezarizki2098/rezarizki2098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
